@@ -1,0 +1,17 @@
+/* css resests */
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+/* testing css link */
+h1{
+  background: whitesmoke;
+}
+
+
+
+.result{
+  width: 50%;
+}
