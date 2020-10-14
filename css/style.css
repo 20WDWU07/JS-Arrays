@@ -7,11 +7,14 @@
 
 /* testing css link */
 h1{
-  background: whitesmoke;
+  /* background: whitesmoke; */
+}
+
+.myForm{
+
 }
 
 
-
 .result{
-  width: 50%;
+  /* width: 50%; */
 }
